@@ -11,8 +11,8 @@ About Introduction to Machine Learning for the Arts, IMA, Tisch School of the Ar
 
 ### 0: [Intro!](00_intro)
 Friday 9/2
-- Session 1: Introduction to Machine Learning
-- Session 2: Introduction to Machine Learning
+- Introduction to Machine Learning
+
 
 ### 1: [ml5.js](01_ml5)
 Friday 9/9
@@ -41,8 +41,8 @@ Friday 10/7
 
 ### 6: [What are data?](06_data)
 Friday 10/14
-- Session 1: Working with Data
-- Session 2: Working with Data
+- Session 1: Working with Data 1
+- Session 2: Working with Data 2
 
 ### 7: [Recurrent Neural Networks](07_rnn)
 Friday 10/21
