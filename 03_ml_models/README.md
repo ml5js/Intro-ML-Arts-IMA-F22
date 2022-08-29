@@ -61,4 +61,4 @@
 5. Considering the [Model and Data Biography](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) reflect on the the following questions:
    - What questions do you still have about the model and the associated data? Are there elements you would propose including in the biography?
    - How does understanding the provenance of the model and its data inform your creative process?
-6. Document your response to the Data and Model biography as well as your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the [Assignment 3 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F21/wiki/Assignment-3). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+6. Document your response to the Data and Model biography as well as your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the [Assignment 3 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Assignment-3). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
