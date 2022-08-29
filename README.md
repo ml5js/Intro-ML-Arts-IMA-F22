@@ -5,77 +5,76 @@ About Introduction to Machine Learning for the Arts, IMA, Tisch School of the Ar
 ## OUTLINE
 
 ### 0: [Intro!](00_intro)
-
-- Session 1 (Th 9/2): Introduction to Machine Learning
+Friday 9/2
+- Session 1: Introduction to Machine Learning
+- Session 2: Introduction to Machine Learning
 
 ### 1: [ml5.js](01_ml5)
-
-- Session 1 (Tu 9/7): ml5.js
-- Session 2 (Th 9/9): Image Classification
+Friday 9/9
+- Session 1: ml5.js
+- Session 2: Image Classification
 
 ### 2: [Transfer Learning](02_transfer_learning)
-
-- Session 1 (Tu 9/14): Transfer Learning with Teachable Machine
-- Session 2 (Th 9/16): Transfer learning with ml5.js
+Friday 9/16
+- Session 1: Transfer Learning with Teachable Machine
+- Session 2: Transfer learning with ml5.js
 
 ### 3: [Machine Learning Models](03_ml_models)
-
-- Session 1 (Tu 9/21): Pre-trained models 1
-- Session 2 (Th 9/23): Pre-trained models 2
+Friday 9/23
+- Session 1: Pre-trained models 1
+- Session 2: Pre-trained models 2
 
 ### 4: [Training a Model](04_training)
-
-- Session 1 (Tu 9/28): Real-Time Data Collection
-- Session 2 (Th 9/30): Real-Time Model Training
+Friday 9/30
+- Session 1: Real-Time Data Collection
+- Session 2: Real-Time Model Training
 
 ### 5: [Convolutional Neural Networks](05_CNN)
-
-- Session 1 (Tu 10/5): Image Data
-- Session 2 (Th 10/7): Convolutional Neural Networks
+Friday 10/7
+- Session 1: Image Data
+- Session 2: Convolutional Neural Networks
 
 ### 6: [What are data?](06_data)
-
-- no class Tuesday, 10/12!
-- Session 1 (Th 10/14): Working with Data
+Friday 10/14
+- Session 1: Working with Data
+- Session 2: Working with Data
 
 ### 7: [Recurrent Neural Networks](07_rnn)
-
-- Session 1 (Tu 10/19): SketchRNN (Drawing)
-- Session 2 (Th 10/21): charRNN (Text)
+Friday 10/21
+- Session 1: SketchRNN (Drawing)
+- Session 2: charRNN (Text)
 
 ### 8: [Pre-Trained Models with RunwayML](08_runwayml)
-
+Friday 10/28
 - Session 1 (Tu 10/26): Introduction to RunwayML
 - Session 2 (Th 10/28): RunwayML Model Workshop
 
 ### 9: [Generative Models with RunwayML](09_runwayml)
-
-- Session 1 (Tu 11/2): Hosted Models and Networking, Model Training
-- Session 2 (Th 11/4): Generative Adversarial Networks, Interactive Image Synthesis
+Friday 11/4
+- Session 1: Hosted Models and Networking, Model Training
+- Session 2: Generative Adversarial Networks, Interactive Image Synthesis
 
 ### 10: [AI Enhanced video with Runway Sequel](10_sequel)
-
-- Session 1 (Tu 11/9): AI Rotoscoping, Optical Flow, Depth Estimation
-- Session 2 (Th 11/11): Sequel Workshop
+Friday 11/11
+- Session 1: AI Rotoscoping, Optical Flow, Depth Estimation
+- Session 2: Sequel Workshop
 
 ### 11/12: [Final Project Proposals](final)
-
-- Session 1 (Tu 11/16)
-- Session 2 (Th 11/18)
-- Session 3 (Tu 11/23)
+Friday 11/18
+- Session 1: Group 1
+- Session 2: Group 1
 
 **_Thanksgiving break_**
 
-### 12/13: [Final Project Development and Testing](final)
-
-- Session 1 (Tu 11/30)
-- Session 2 (Th 12/2)
-- Session 2 (Tu 12/7)
+### 12/2: [Final Project Development and Testing](final)
+Friday 12/2
+- Session 1: Group 1
+- Session 2: Group 1
 
 ### 14: [Final Project Presentations](final)
-
-- Session 1 (Th 12/9): Group 1
-- Session 2 (Tu 12/14): Group 2
+Friday 12/9
+- Session 1: Group 1
+- Session 2: Group 2
 
 ## CODE OF CONDUCT
 
