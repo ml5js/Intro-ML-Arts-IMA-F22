@@ -2,6 +2,11 @@
 
 About Introduction to Machine Learning for the Arts, IMA, Tisch School of the Arts, New York University, Fall 2022
 
+## Info
+
+- Friday, 5:20 PM - 8:30 PM, 370 Jay Street, Room 409 Loc: Brooklyn Campus
+- [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
+
 ## OUTLINE
 
 ### 0: [Intro!](00_intro)
