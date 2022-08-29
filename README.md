@@ -59,19 +59,19 @@ Friday 11/11
 - Session 1: AI Rotoscoping, Optical Flow, Depth Estimation
 - Session 2: Sequel Workshop
 
-### 11/12: [Final Project Proposals](final)
+### 11: [Final Project Proposals](final)
 Friday 11/18
 - Session 1: Group 1
 - Session 2: Group 1
 
 **_Thanksgiving break_**
 
-### 12/2: [Final Project Development and Testing](final)
+### 12: [Final Project Development and Testing](final)
 Friday 12/2
 - Session 1: Group 1
 - Session 2: Group 1
 
-### 14: [Final Project Presentations](final)
+### 13: [Final Project Presentations](final)
 Friday 12/9
 - Session 1: Group 1
 - Session 2: Group 2
