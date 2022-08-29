@@ -70,7 +70,7 @@
 - [Glitch! RunwayML StyleGAN walk](https://glitch.com/edit/#!/latent-sky-walk)
 - [All Glitch + RunwayML templates](https://glitch.com/@daniel83693/runway-ml-templates)
 
-### Assignment (Due Monday, Nov 9):
+### Assignment (Due Friday, Nov 11):
 
 Choose one of the following options! You could also combine them by training your own model and connecting it to p5.js! Continue your reflection on RunwayML in a blog post. How is working with RunwayML from your code compared to the web interface? Include screenshots and screen captures of your workflow.
 
