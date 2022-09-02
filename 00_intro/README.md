@@ -12,7 +12,7 @@
 
 - Introductions
 - Syllabus
-- [Slides: Introduction to ML](https://docs.google.com/presentation/d/1q1mqEPTKKrsPxzmg1g1NvvBzypFy18VPRiPGkx-EkN0/edit?usp=sharing)
+- [Slides: Introduction to ML](https://docs.google.com/presentation/d/1Mr_Eb0I_B0L9hEAfKj2tYYSBsm6OmF-rpM--adTq2xc/edit?usp=sharing)
 - p5.js review
 
 ## Supplemental Materials
