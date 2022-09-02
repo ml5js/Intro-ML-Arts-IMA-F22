@@ -133,7 +133,7 @@ Classes will be a mixture of lecture, discussion, hands-on tutorials, homework r
 
 ## COURSE SCHEDULE
 
-The course will be two (2) times per week for one hour and thirty minutes (1:30) for a total of 14 weeks.
+The course will be one (1) times per week for three (3) hours and thirty minutes for a total of 14 weeks.
 
 ## ASSIGNMENTS
 
