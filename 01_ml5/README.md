@@ -9,7 +9,7 @@
 - Understand what ml5.js is and how it fits into the TensorFlow and open source machine learning library ecosystem.
 - Learn how to create an image classifier with ml5.js and MobileNet.
 - Understand how the MobileNet model was trained, specifically the origins and collection methodology for the training.
-- [Session 1b Slides](https://docs.google.com/presentation/d/1oWifWaY4LMnmhOT0knKtYoQiBiCV5ObnNnx_X_S_QQk/edit?usp=sharing)
+- [Session 1b Slides](https://docs.google.com/presentation/d/1udTrsHVhuPnbfp0iEv_HQnb-0VVCftYzQbtje-Va3LM/edit?usp=sharing)
 
 ### ml5.js video tutorials
 
