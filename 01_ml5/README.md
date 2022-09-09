@@ -26,9 +26,14 @@
 
 - [Image Classification](https://editor.p5js.org/ml5/sketches/ImageClassification)
 - [Drag and Drop Image Classification](https://editor.p5js.org/ima_ml/sketches/rnm3SJmMd)
+- [Image Classification_on Multiple Images](https://editor.p5js.org/ml5/sketches/ImageClassification_MultipleImages)
 - [Webcam Image Classification](https://editor.p5js.org/ml5/sketches/ImageClassification_Video)
 - [Webcam Image Classification Text to Speech](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoSound)
+- [Webcam Image Classification Text to Speech with Translation](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoSoundTranslate)
 - [Image Classification Scavenger Hunt](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoScavengerHunt)
+- [ImageClassification_DoodleNet_Canvas](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Canvas)
+- [ImageClassification_DoodleNet_Video](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Video)
+
 
 ### Defining Machine Learning yet again
 
