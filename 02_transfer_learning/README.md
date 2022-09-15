@@ -8,7 +8,7 @@
 - Distinguish between a “feature vector” (aka logits) and the last layer (aka softmax probabilities) of a classification network.
 - Understand the process of “transfer learning.”
 - Learn to save a trained model for re-use later.
-- [Week 2 Slides](https://docs.google.com/presentation/d/1F3dzsN1VrwT3H88bPJ2PJzjCiCIckgrO525ynWHDFWo/edit?usp=sharing)
+- [Week 2 Slides](https://docs.google.com/presentation/d/1eW2Q9HKWH3WL_VCMN_AXeSVNajPtJEr7nFBaNZKcrmQ/edit?usp=sharing)
 
 ### Supervised Learning
 
