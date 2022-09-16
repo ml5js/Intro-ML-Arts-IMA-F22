@@ -22,6 +22,13 @@
 - [Regression Curve](https://github.com/byjoohyunpark/regression-curve) by Joohyun Park
 - [Asemic Writing Teachable Machine](http://blog.jzhong.today/computationaltypo/Asemic-Writing-Teachable-Machine/) by Jillian Zhong
 - [Tiny Sorter](https://experiments.withgoogle.com/tiny-sorter/view)
+- [Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f), [live demo](https://shekit.github.io/alexa-sign-language-translator/)
+- [Objectifier Spatial Programming](https://experiments.withgoogle.com/ai/objectifier-spatial-programming)
+- [Project Euphonia](https://www.youtube.com/watch?v=OAdegPmkK-o)
+- [Teachable Snake](https://experiments.withgoogle.com/teachable-snake)
+- [Teachable Sorter](https://experiments.withgoogle.com/teachable-snake)
+- [Teachable Arcade](https://teachable-arcade.glitch.me/)
+- [Eyeo Festival 2019 - Coding train](https://vimeo.com/354276216), [code](https://github.com/CodingTrain/Eyeo-Festival-2019)
 
 ### Reading / Viewing:
 
@@ -43,6 +50,10 @@
 - [ml5.js: Feature Extractor Classification - video tutorial](https://youtu.be/eeO-rWYFuG0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 - [ml5.js: Feature Extractor Regression - video tutorial](https://youtu.be/aKgq0m1YjvQ?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 - [ml5.js: Save/Load Model - video tutorial](https://youtu.be/eU7gIy3xV30?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+
+### Other demos
+- [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSquare/) [Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-imageClassifier/KNNClassification_VideoSquare)
+- [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/FeatureExtractor_Image_Regression/) [Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-imageClassifier/FeatureExtractor_Image_Regression)
 
 ### Assignment 2
 
