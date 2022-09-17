@@ -71,5 +71,7 @@ Reflect on the relationship between labels and images in a machine learning imag
 
    - [Teachable Machine ml5.js example for Image Classification](https://editor.p5js.org/ima_ml/sketches/8Wmwnig7-)
    - [Teachable Machine ml5.js example for Sound Classification](https://editor.p5js.org/ima_ml/sketches/xcdqphiVj)
+   - [Slience kills joy](https://editor.p5js.org/yining/sketches/LZndcN-2u)
+   - [Image to Emoji](https://editor.p5js.org/yining/sketches/Xm2lp6wW4)
 
 3. Document your reading reflections and your coding exercise in a blog post and add a link to the post / your p5 sketch on the [Assignment 2 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of training the model and working in p5. You may write include both in one post or write two separate posts if you prefer.
