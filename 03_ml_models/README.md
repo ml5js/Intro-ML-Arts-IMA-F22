@@ -85,6 +85,7 @@
 - [Web Olympic](https://vibertthio.com/web-olympic/)
 - [AR Body Filter](https://sheeborshee.com/AR-body-filters-2019)
 - [ballet rotoscope](https://www.youtube.com/watch?v=yzJk6ww3LD0)
+- [Bubbles with posenet](https://sihanzhang.wixsite.com/myspace/machine-learning-for-the-web)
 
 ### Assignment 3
 
