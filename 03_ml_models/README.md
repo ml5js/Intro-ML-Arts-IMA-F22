@@ -42,7 +42,7 @@
 - [PoseNet Single Image](https://editor.p5js.org/ima_ml/sketches/Gq9bIvoW1)
 - [Object Detection - CoCoSSD](https://editor.p5js.org/ima_ml/sketches/5oQlIcPj2)
 - [UNet Image Segmentation](https://editor.p5js.org/ml5/sketches/UNET_webcam)
-- [BodyPix Image Segmentation](https://editor.p5js.org/ml5/sketches/5kF2Kokx9)
+- [BodyPix Webcam](https://editor.p5js.org/ml5/sketches/BodyPix_Webcam)
 
 ## See demos live
 [Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose)
