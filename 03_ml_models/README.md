@@ -8,7 +8,7 @@
 - Ability to work with PoseNet and ml5.js
 - Ability to work with Object Detection Models (CoCoSSD).
 - Ability to work with Image Segmentation models (UNet and BodyPix) and ml5.js.
-- [Week 3 Slides](https://docs.google.com/presentation/d/1hewKX6HSMHQR3XV8dxpBNfVQ-NFUWwaRyNQbf061nX8/edit?usp=sharing)
+- [Week 3 Slides](https://docs.google.com/presentation/d/1tKp7seEpqoZO6aZzEoK6FXcf_sV8EDVO2HaPU0IqsXA/edit?usp=sharing)
 
 ### Models
 
