@@ -94,6 +94,7 @@
 4. Pick one of the models above (PoseNet, HandPose, UNET, BodyPix, CoCoSSD) and following the examples and [ml5.js documentation](http://learn.ml5js.org/) experiment with controlling elements of a p5.js sketch (color, geometry, sound, text) with the output of the model. (You may also choose a ml5.js model not covered here if you like!)
 - https://editor.p5js.org/yining/sketches/W5MU2Xc02 (nose drawing)
 - https://editor.p5js.org/yining/sketches/NhSshC1cq (pose + cat)
+- Bodypix color https://editor.p5js.org/yining/sketches/jSnEyDrPw
 6. Considering the [Model and Data Biography](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) reflect on the the following questions:
    - What questions do you still have about the model and the associated data? Are there elements you would propose including in the biography?
    - How does understanding the provenance of the model and its data inform your creative process?
