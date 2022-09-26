@@ -16,6 +16,7 @@
   - Batch size
   - Loss
 - Understand the difference between training and inference
+- Week 4 [slides](https://docs.google.com/presentation/d/1pQPU2ANEPuESCr-POjbRDPnR992VGS3TRfj7C9eK1Co/edit?usp=sharing)
 
 ### Background: Perceptron and Artifical Neural Networks
 
