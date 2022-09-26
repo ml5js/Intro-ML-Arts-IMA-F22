@@ -74,6 +74,12 @@
 
 - 💻 [Train regression model model with Face Keypoints](https://editor.p5js.org/ima_ml/sketches/US3ZX6zCD)
 
+### Hand Data
+- Hand pose tracking + Neural Network, [demo video](https://www.loom.com/share/420fa5941dea411491af817011622c86)
+  - [Collect data](https://editor.p5js.org/yining/sketches/dCoPm-Opb)
+  - [Train the model](https://editor.p5js.org/yining/sketches/IrBFfXbSF)
+  - [Run the model](https://editor.p5js.org/yining/sketches/6cFF9-L-Z)
+
 ### Project References
 
 - [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard
