@@ -34,7 +34,7 @@ Friday 9/30
 - Session 1: Real-Time Data Collection
 - Session 2: Real-Time Model Training
 
-### 5: [Convolutional Neural Networks](05_CNN)
+### 5: [Convolutional Neural Networks](05_cnn)
 Friday 10/7
 - Session 1: Image Data
 - Session 2: Convolutional Neural Networks
