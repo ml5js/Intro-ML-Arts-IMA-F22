@@ -94,7 +94,7 @@
    - Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons?
    - What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
    - What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values?
-   - Improve the [handPose example we built in class](https://editor.p5js.org/ima_ml/sketches/JjnhklcOX)
+   - Improve the [handPose example we built in class](https://editor.p5js.org/ima_ml/sketches/JjnhklcOX) https://editor.p5js.org/yining/sketches/dX-aN-8E7
      - Can you add more keypoints from the hand to the data collection? (All the keypoints?)
      - Can you add more classification categories?
      - Can you create an interface for training and showing the results of model's prediction?
