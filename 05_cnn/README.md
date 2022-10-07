@@ -22,7 +22,6 @@
 
 - [Displaying MNIST](https://editor.p5js.org/ima_ml/sketches/ndqnn8p3F)
 - [Displaying Quick, Draw! 28x28 images](https://editor.p5js.org/ima_ml/sketches/wOO4nvwyw)
-- [Animating Quick, Draw! paths](https://editor.p5js.org/ima_ml/sketches/aT9zxHX7n)
 
 ### Creative Quick, Draw! projects
 
