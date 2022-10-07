@@ -74,12 +74,6 @@
 - [Get Quickdraw Dataset](https://yining1023.github.io/machine-learning-for-the-web/cnn/GetQuickdrawData/)
 - [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainDoodleClassifier)
 - [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainMNIST)
-- [p5.js Convolution demo](https://editor.p5js.org/codingtrain/sketches/BN1lE-gyl)
-- [p5.js Convolution demo -- max pooling](https://editor.p5js.org/codingtrain/sketches/GMRfsK7Wn)
-- [Training a model with `ml5.neuralNetwork()` and Google Quick, Draw! images](https://editor.p5js.org/ima_ml/sketches/bL6jONrFQ)
-- [NeuralNetwork_ImageClassifier_Colors](https://yining1023.github.io/machine-learning-for-the-web/cnn/NeuralNetwork_ImageClassifier_Colors)
-- [NeuralNetwork_ImageClassifier_Letters](https://yining1023.github.io/machine-learning-for-the-web/cnn/NeuralNetwork_ImageClassifier_Letters)
-- [NeuralNetwork_ImageClassifier_Video](https://yining1023.github.io/machine-learning-for-the-web/cnn/NeuralNetwork_ImageClassifier_Video)
 
 ## Assignment 5a
 
