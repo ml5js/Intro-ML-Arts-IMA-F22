@@ -66,7 +66,7 @@
 - [Training a model with `ml5.neuralNetwork()` and Google Quick, Draw! images](https://editor.p5js.org/ima_ml/sketches/bL6jONrFQ)
 - [Classifying Drawings with ml5's DoodleNet](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN) (model trained by @yining1023)
 
-### Demos
+### Demos [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/cnn)
 - [Classifying Drawings with ml5's DoodleNet](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN)
 - [Doodle Classifier on 100 classes](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier100/)
 - [Doodle Classifier on 345 classes](https://yining1023.github.io/machine-learning-for-the-web/cnn/DoodleClassifier345/)
