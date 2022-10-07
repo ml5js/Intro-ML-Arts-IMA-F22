@@ -75,6 +75,8 @@
 - [Train your own Doodle Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainDoodleClassifier)
 - [Train your own MNIST Classifier](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainMNIST)
 
+- In class: https://editor.p5js.org/yining/sketches/LYg2Dw0mB
+
 ## Assignment 5a
 
 ### Reading
