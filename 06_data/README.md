@@ -64,10 +64,9 @@ Continue working on your sketch from [Assignment 4](https://github.com/ml5js/Int
 
 Build off of one of the code examples (or invent your own) to develop you own creative use of Quick, Draw data.
 
-- [Rendering Quick, Draw drawings](https://editor.p5js.org/ima_ml/sketches/vCfQL93k7)
-- [Animating Quick, Draw! paths](https://editor.p5js.org/ima_ml/sketches/aT9zxHX7n)
 - [Classifying Drawings with ml5's DoodleNet: output in DOM element](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN) -- _Can you make this one work with webcam input instead of canvas?_
 - [Classifying Drawings with ml5's DoodleNet: output in separate canvas](https://editor.p5js.org/ima_ml/sketches/XIZEoKBTL)
+- Can you try your own doodleNet with a fewer classes? [demo](https://yining1023.github.io/machine-learning-for-the-web/cnn/TrainDoodleClassifier), [code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/cnn/TrainDoodleClassifier), [get doodleNet dataset](https://github.com/googlecreativelab/quickdraw-dataset#get-the-data), [download](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?prefix=&forceOnObjectsSortingFiltering=false) .npy files.
 
 ### 3: Other Data Sources
 
