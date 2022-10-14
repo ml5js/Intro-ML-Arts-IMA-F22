@@ -22,7 +22,7 @@
 - Tabular Data (CSV)
   - [Tabular Data](https://youtu.be/RfMkdvN-23o) from Coding Train "Data + APIs" tutorial (lots of extra stuff here the first few minutes is probably most relevant?)
   - [Tabular Data](https://youtu.be/woaR-CJEwqc) Coding Train Processing tutorial (code is not JS!)
-  - https://www.kaggle.com/datasets/brendan45774/test-file
+  - https://www.kaggle.com/datasets/brendan45774/test-file, https://github.com/ml5js/ml5-library/blob/main/examples/p5js/NeuralNetwork/NeuralNetwork_titanic/data/titanic_cleaned.csv
 - JSON Data
   - [What is JSON Part 1](https://youtu.be/_NFkzw6oFtQ) - Coding Train p5.js tutorial
   - [What is JSON Part 2](https://youtu.be/118sDpLOClw) - Coding Train p5.js tutorial
