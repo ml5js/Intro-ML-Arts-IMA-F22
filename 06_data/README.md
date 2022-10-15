@@ -53,6 +53,7 @@
 - [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
 - [311 Call data from Lydisa Jessup](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2)
 - https://editor.p5js.org/yining/sketches/-i4GJnlgz
+- color dataset: https://raw.githubusercontent.com/ml5js/ml5-library/main/examples/p5js/NeuralNetwork/NeuralNetwork_color_classifier/data/colorData_small.json
 
 ## Assignment 5b
 
