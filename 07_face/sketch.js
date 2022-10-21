@@ -10,7 +10,7 @@ function setup() {
   faceapi.detect(gotResults);
 
   noFill();
-  strokWeight(4);
+  strokeWeight(4);
   stroke(255, 0, 255);
 }
 
@@ -24,7 +24,7 @@ function gotResults(err, result) {
     return;
   }
   if (result) {
-    // console.log(result);
+    console.log(result);
     faceResults = result;
     faceapi.detect(gotResults);
   }
@@ -33,7 +33,21 @@ function gotResults(err, result) {
 function draw() {
   image(video, 0, 0, width, height);
   if (faceResults && faceResults.length > 0) {
+    // Draw the bounding box
+    noFill();
+    stroke(255, 0, 255);
     let face = faceResults[0].alignedRect._box;
     rect(face._x, face._y, face._width, face._height);
+
+    // Draw parts
+    fill(255, 0, 0);
+    let parts = faceResults[0].parts;
+    let partNames = Object.keys(parts);
+    for (let i = 0; i < partNames.length; i++) {
+      const part = parts[partNames[i]];
+      for (let j = 0; j < part.length; j++) {
+        ellipse(part[j]._x, part[j]._y, 2, 2);
+      }
+    }
   }
 }
