@@ -5,16 +5,14 @@
 - Face-api
 - Face Mesh
 
-## See demos live
-
-[Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/face-hand)
+## Examples
 
 - Face-api
-  - [FaceApi_Image_Landmarks](https://yining1023.github.io/machine-learning-for-the-web/face-hand/FaceApi/FaceApi_Image_Landmarks)
-  - [FaceApi_Video_Landmarks](https://yining1023.github.io/machine-learning-for-the-web/face-hand/FaceApi/FaceApi_Video_Landmarks)
+  - [FaceApi_Image_Landmarks](https://editor.p5js.org/ml5/sketches/FaceApi_Image_Landmarks)
+  - [FaceApi_Video_Landmarks](https://editor.p5js.org/ml5/sketches/FaceApi_Video_Landmarks)
 - Face Mesh
-  - [Facemesh_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Facemesh/Facemesh_Image)
-  - [Facemesh_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Facemesh/Facemesh_Webcam)
+  - [Facemesh_Image](https://editor.p5js.org/ml5/sketches/Facemesh_Image)
+  - [Facemesh_Webcam](https://editor.p5js.org/ml5/sketches/Facemesh_Webcam)
   - [Cat face filter](https://neon-scintillating-harpymimus.glitch.me/), [code](https://github.com/yining1023/cat-filter/tree/main)
 
 # Resource
