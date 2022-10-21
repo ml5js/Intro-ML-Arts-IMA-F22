@@ -23,7 +23,7 @@
 - [No Machine is an Island](https://medium.com/@lyxsix/no-machine-is-an-island-497e92e9927e) by Yuxi Liu and Larissa Pschetz
 - [Introspectons](https://medium.com/runwayml/introspections-9cb6660c0311) by Philipp Schmitt
 
-## Assignment (Due Monday, Nov 1):
+## Assignment (Due Friday, Nov 4):
 
 #### Reading
 
