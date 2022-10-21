@@ -1,9 +1,5 @@
 ## Presentation: [Slides](https://docs.google.com/presentation/d/113rP1llxYoZU2W4VmYPrEEQAwrS3z2IWWJjgbALPuAk/edit?usp=sharing)
 
-- Face recognition
-  - Face-api
-  - Face Mesh
-
 ## Coding session:
 
 - Face-api
@@ -11,7 +7,7 @@
 
 ## See demos live
 
-[Code](https://yining1023.github.io/machine-learning-for-the-web/face-hand)
+[Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/face-hand)
 
 - Face-api
   - [FaceApi_Image_Landmarks](https://yining1023.github.io/machine-learning-for-the-web/face-hand/FaceApi/FaceApi_Image_Landmarks)
