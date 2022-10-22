@@ -1,4 +1,11 @@
 let faceapi, video, faceResults;
+let isMouthOpen = false;
+let duckSound;
+let prevResult;
+
+function preload() {
+  duckSound = loadSound("./duck.wav");
+}
 
 function setup() {
   createCanvas(640, 480);
@@ -25,7 +32,26 @@ function gotResults(err, result) {
   }
   if (result) {
     console.log(result);
+    prevResult = faceResults;
     faceResults = result;
+
+    // Check if the mouth is open
+    if (faceResults[0]) {
+      let parts = faceResults[0].parts;
+      let mouth = parts["mouth"];
+      let mouthTop = mouth[4];
+      let mouthBottom = mouth[9];
+      if (mouthBottom._y - mouthTop._y > 50) {
+        isMouthOpen = true;
+        if (!duckSound.isPlaying()) {
+          duckSound.play();
+        }
+      } else {
+        isMouthOpen = false;
+        duckSound.stop();
+      }
+    }
+
     faceapi.detect(gotResults);
   }
 }
