@@ -28,6 +28,7 @@
 - [Lexica: The Stable Diffusion search engine](https://lexica.art)
 - [Image to Music demo](https://huggingface.co/spaces/fffiloni/img-to-music)
 - [runwayml/stable-diffusion-v1-5 on Hugging face](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+- [Midjourney](https://www.midjourney.com/home)
 
 ## Related Projects
 
