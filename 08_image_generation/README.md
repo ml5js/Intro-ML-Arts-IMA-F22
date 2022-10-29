@@ -29,6 +29,7 @@
 - [Image to Music demo](https://huggingface.co/spaces/fffiloni/img-to-music)
 - [runwayml/stable-diffusion-v1-5 on Hugging face](https://huggingface.co/runwayml/stable-diffusion-v1-5)
 - [Midjourney](https://www.midjourney.com/home)
+- Where to find stock videos/image: [Pexel](https://www.pexels.com/)
 
 ## Related Projects
 
