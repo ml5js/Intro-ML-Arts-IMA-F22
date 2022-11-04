@@ -14,7 +14,20 @@
 - <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/master/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
 
 #### Steps
+```
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(2, OUTPUT);
+}
 
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(2, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(2, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
+```
 1. [Download](https://www.arduino.cc/en/main/software) Arduino IDE
 2. [Download](https://github.com/p5-serial/p5.serialcontrol/releases) p5 serial app (Don't open the app yet)
 3. Run p5 code in p5 web editor [sketch](https://editor.p5js.org/yining/sketches/eHYnYa5BR) (Remember to update the portName and mySoundModelURL, and update class names to your own classes.)
