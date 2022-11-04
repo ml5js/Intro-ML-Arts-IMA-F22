@@ -28,6 +28,8 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 ```
+https://teachablemachine.withgoogle.com/models/80pkk7maP/
+
 1. [Download](https://www.arduino.cc/en/main/software) Arduino IDE
 2. [Download](https://github.com/p5-serial/p5.serialcontrol/releases) p5 serial app (Don't open the app yet)
 3. Run p5 code in p5 web editor [sketch](https://editor.p5js.org/yining/sketches/eHYnYa5BR) (Remember to update the portName and mySoundModelURL, and update class names to your own classes.)
