@@ -10,74 +10,101 @@ About Introduction to Machine Learning for the Arts, IMA, Tisch School of the Ar
 ## OUTLINE
 
 ### 0: [Intro!](00_intro)
+
 Friday 9/2
+
 - Introduction to Machine Learning
 
-
 ### 1: [ml5.js](01_ml5)
+
 Friday 9/9
+
 - Session 1: ml5.js
 - Session 2: Image Classification
 
 ### 2: [Transfer Learning](02_transfer_learning)
+
 Friday 9/16
+
 - Session 1: Transfer Learning with Teachable Machine
 - Session 2: Transfer learning with ml5.js
 
 ### 3: [Machine Learning Models](03_ml_models)
+
 Friday 9/23
+
 - Session 1: Pre-trained models 1
 - Session 2: Pre-trained models 2
 
 ### 4: [Training a Model](04_training)
+
 Friday 9/30
+
 - Session 1: Real-Time Data Collection
 - Session 2: Real-Time Model Training
 
 ### 5: [Convolutional Neural Networks](05_cnn)
+
 Friday 10/7
+
 - Session 1: Image Data
 - Session 2: Convolutional Neural Networks
 
 ### 6: [What are data?](06_data)
+
 Friday 10/14
+
 - Session 1: Working with Data 1
 - Session 2: Working with Data 2
 
-### 7: [Recurrent Neural Networks](07_rnn)
+### 7: [Face data](07_face)
+
 Friday 10/21
-- Session 1: SketchRNN (Drawing)
-- Session 2: charRNN (Text)
 
-### 8: [Pre-Trained Models with RunwayML](08_runwayml)
+- Session 1: Face-api
+- Session 2: Face Mesh
+
+### 8: [AI Image Generation](08_image_generation)
+
 Friday 10/28
-- Session 1 (Tu 10/26): Introduction to RunwayML
-- Session 2 (Th 10/28): RunwayML Model Workshop
 
-### 9: [Generative Models with RunwayML](09_runwayml)
+- Session 1: Introduction to RunwayML
+- Session 2: RunwayML Workshop
+
+### 9: [Teachable Machine + Arduino](09_arduino)
+
 Friday 11/4
-- Session 1: Hosted Models and Networking, Model Training
-- Session 2: Generative Adversarial Networks, Interactive Image Synthesis
 
-### 10: [AI Enhanced video with Runway Sequel](10_sequel)
+- Session 1: Teachable Machine + Arduino workshop 1
+- Session 2: Teachable Machine + Arduino workshop 2
+
+### 10: [Final Project Proposals](final)
+
 Friday 11/11
-- Session 1: AI Rotoscoping, Optical Flow, Depth Estimation
-- Session 2: Sequel Workshop
 
-### 11: [Final Project Proposals](final)
-Friday 11/18
 - Session 1: Group 1
-- Session 2: Group 1
+- Session 2: Group 2
+
+### 11: [Final Project Development](final)
+
+Friday 11/18
+
+- Session 1: Group 1
+- Session 2: Group 2
 
 **_Thanksgiving break_**
 
-### 12: [Final Project Development and Testing](final)
+### 12: [Final Project Testing](final)
+
 Friday 12/2
+
 - Session 1: Group 1
-- Session 2: Group 1
+- Session 2: Group 2
 
 ### 13: [Final Project Presentations](final)
+
 Friday 12/9
+
 - Session 1: Group 1
 - Session 2: Group 2
 

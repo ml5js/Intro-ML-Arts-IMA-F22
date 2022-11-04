@@ -1,6 +1,6 @@
 # Final Project
 
-Your final project is a four week assignment to be completed in three stages (proposal, development and testing, presentation). Proposals presentations will be the week of 11/18 and 11/23. Final project presentations will be 12/9 and 12/14.
+Your final project is a four week assignment to be completed in three stages (proposal, development and testing, presentation). Proposals presentations will be the week of 11/11. Final project presentations will be 12/9.
 
 The final project should be a creative project that builds off of or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, projects do not need to be screen-based and there is no requirement to use a particular programming language or machine learning model.
 
@@ -38,7 +38,7 @@ Class time will be allocated for you to make progress on your project. Make a go
 
 ## Final Presentation and Documentation Guidelines
 
-Final project presentations are **Thursday, December 9th and Tuesday, December 14th**, [please check your assigned day / time](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Final-Presentations). In class presentations will be approximately 8 minutes each, I will be strict about the time to keep everything fair.
+Final project presentations are **Friday, December 9th**, [please check your assigned day / time](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Final-Presentations). In class presentations will be approximately 8 minutes each, I will be strict about the time to keep everything fair.
 
 Please post your final project documentation to a web page (blog post is fine) and link next to your name on the [final presentation wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Final-Presentations). This is due **Wednesday, December 15**.
 
