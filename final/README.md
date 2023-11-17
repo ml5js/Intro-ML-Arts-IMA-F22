@@ -40,7 +40,7 @@ Class time will be allocated for you to make progress on your project. Make a go
 
 Final project presentations are **Friday, December 9th**, [please check your assigned day / time](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Final-Presentations). In class presentations will be approximately 8 minutes each, I will be strict about the time to keep everything fair.
 
-Please post your final project documentation to a web page (blog post is fine) and link next to your name on the [final presentation wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Final-Presentations). This is due **Wednesday, December 15**.
+Please post your final project documentation to a web page (blog post is fine) and link next to your name on the [final presentation wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Final-Presentations). This is due **Thurs, December 9**.
 
 Final Project presentations are demonstrations and do not require a slide deck, however, you might find slides useful to help you plan and structure your demo and discussion. Your documentation should come in written form (equivalent of 1-3 pages) as a blog post. It's up to you to figure out how to best document your project, at a minimum, please include the following:
 
